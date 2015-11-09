@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Update Firefox
+Comment=
+Exec=/home/guest/startup_scripts/firefox-update.sh
+Icon=update-manager
+Path=
+Terminal=true
+StartupNotify=false

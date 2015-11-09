@@ -1,0 +1,1 @@
+VboxManage unregistervm porteus_browser_appliance --delete

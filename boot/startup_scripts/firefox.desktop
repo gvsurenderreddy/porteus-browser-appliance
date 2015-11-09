@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox
+Comment=
+Exec=/usr/local/firefox/firefox
+Icon=/usr/local/firefox/browser/icons/mozicon128.png
+Path=/usr/local/firefox
+Terminal=false
+StartupNotify=false
+GenericName=Web Browser
