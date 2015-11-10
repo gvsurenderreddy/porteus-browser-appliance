@@ -1,0 +1,21 @@
+#!/bin/sh
+# Start vboxadd
+# If you do not wish this to be executed here then comment it out,
+# and the installer will skip it next time.
+if [ -x /etc/rc.d/rc.vboxadd ]; then
+    /etc/rc.d/rc.vboxadd start
+fi
+
+# Start vboxadd-service
+# If you do not wish this to be executed here then comment it out,
+# and the installer will skip it next time.
+if [ -x /etc/rc.d/rc.vboxadd-service ]; then
+    /etc/rc.d/rc.vboxadd-service start
+fi
+
+# Start vboxadd-x11
+# If you do not wish this to be executed here then comment it out,
+# and the installer will skip it next time.
+if [ -x /etc/rc.d/rc.vboxadd-x11 ]; then
+    /etc/rc.d/rc.vboxadd-x11 start
+fi
