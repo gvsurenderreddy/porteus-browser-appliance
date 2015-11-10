@@ -1,10 +1,7 @@
-/ot15ohms.default
-/ot15ohms.default/extension-data
+*/
 /ot15ohms.default/extension-data/**
-/ot15ohms.default/HTTPSEverywhereUserRules
 /ot15ohms.default/HTTPSEverywhereUserRules/**
 /ot15ohms.default/prefs.js
 /ot15ohms.default/places.sqlite
 /ot15ohms.default/xulstore.json
-/Crash Reports
 /Crash Reports/crashreporter.ini
