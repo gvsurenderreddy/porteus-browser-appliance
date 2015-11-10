@@ -4,7 +4,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 
 
-if [ $FIREFOX_SYNCMODE="on" ]; then
+if [ "$FIREFOX_SYNCMODE" = "on" ]; then
   ./sync.sh &
 fi
 
