@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Path=/home/guest/startup_scripts/
-Exec=/home/guest/startup_scripts/xfce_boot.sh
-Terminal=false

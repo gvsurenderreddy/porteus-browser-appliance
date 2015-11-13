@@ -1,0 +1,1 @@
+VboxManage unregistervm porteus_build_vm --delete
